@@ -1,9 +1,0 @@
-{
-  "name": "notion-proxy",
-  "version": "1.0.0",
-  "description": "Notion page wrapper — removes all Notion branding",
-  "private": true,
-  "engines": {
-    "node": "18.x"
-  }
-}
